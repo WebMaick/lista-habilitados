@@ -158,7 +158,7 @@ export const AppHabilitdos = () => {
                   </div>
 
                   <div className="d-flex user__detail">
-                    <h4>NUM. CEDULA:</h4>
+                    <h4>CEDULA:</h4>
                     <span>{usuario[0].NUMCED}</span>
                   </div>
 
